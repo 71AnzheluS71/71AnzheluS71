@@ -1,9 +1,13 @@
-🙋🏻‍♂️ ## ME PRESENTO
+## 🙋🏻‍♂️ ME PRESENTO
 
 ___
 
 ### ***Me llamo Ángel, datación por radiocarbono consta de 1993.***
-### **Murciano sin acento, o eso dicen...**
+#### **Murciano sin acento, o eso dicen...**
+
+**Proyecto de futuro**: ***[TÉCNICO SUPERIOR EN DESARROLLO DE APLICACIONES WEB.](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html)***
+
+**MATRICULADO**: **[En el Centro Integral de Formación Profesional a Distancia, *"La Conservera" de Ceutí*.](https://sites.google.com/view/fplaconservera/la-conservera?authuser=0)**
 
 
 
