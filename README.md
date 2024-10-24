@@ -1,13 +1,40 @@
-## 🙋🏻‍♂️ ME PRESENTO
+# 🙋🏻‍♂️ CARTA DE PRESENTACIÓN
+
+### ***Me llamo Ángel, mi datación por radiocarbono consta de 1993.***
+
+**Murciano sin acento, o eso dicen...**
+
+### **Proyecto de futuro**: ***[TÉCNICO SUPERIOR EN DESARROLLO DE APLICACIONES WEB.](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html)***
+
+**MATRICULADO**: **[En el Centro Integral de Formación Profesional a Distancia, *"La Conservera" de Ceutí*.](https://sites.google.com/view/fplaconservera/la-conservera?authuser=0)**
 
 ___
 
-### ***Me llamo Ángel, datación por radiocarbono consta de 1993.***
-#### **Murciano sin acento, o eso dicen...**
+> 1º CURSO 📕
+>
+>> - Sistemas Informáticos.
+>> - Programación.
+>> - Base de Datos.
+>> - Lenguajes de Marcas y Sistemas de Gestión de Información.
+>> - Entornos de Desarrollo.
+>> - Itinerario Personal para la Empleabilidad I.
+>> - Inglés Profesional.
+>> - Digitalización Aplicada a los Sectores Productivos.
+>
+> 2º CURSO 📙
+>
+>> - Desarrollo Web en Entorno Cliente.
+>> - Desarrollo Web en Entorno Servidor.
+>> - Despliegue de Aplicaciones Web.
+>> - Diseño de Interfaces Web.
+>> - Sostenibilidad Aplicada al Sistema Productivo.
+>> - Itinerario Personal para la Empleabilidad II
+>> - Proyecto Intermodular de Desarrollo de Aplicaciones Web.
+>> - Formación en centros de trabajo.
 
-**Proyecto de futuro**: ***[TÉCNICO SUPERIOR EN DESARROLLO DE APLICACIONES WEB.](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html)***
+___
 
-**MATRICULADO**: **[En el Centro Integral de Formación Profesional a Distancia, *"La Conservera" de Ceutí*.](https://sites.google.com/view/fplaconservera/la-conservera?authuser=0)**
+
 
 
 
