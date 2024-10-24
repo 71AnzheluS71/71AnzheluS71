@@ -62,9 +62,9 @@ ___
 | ![image](https://github.com/user-attachments/assets/22ae650e-8b26-49c6-8606-431c487a8176) | ![image](https://github.com/user-attachments/assets/1531df68-6c4b-4597-b174-e6679d74d58c) | ![image](https://github.com/user-attachments/assets/12eff86e-84f2-4efb-a62a-d474eee322ff) |
 
 
+___
 
-
-- ## 📫 CONTACTO:
+- ## 🛎️ CONTACTO:
 [![1500x500 (4)](https://github.com/user-attachments/assets/42c98c6d-3e1f-48c3-809b-cfee8cce14e8)](https://www.instagram.com/theanzhelus/)
 [![1500x500 (5)](https://github.com/user-attachments/assets/8a58aec4-1a4d-41fe-93d2-a34e870ef52f)](https://x.com/TheAnzheluS)
 
