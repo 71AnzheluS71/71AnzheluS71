@@ -6,7 +6,7 @@
 
 #### **Murciano sin acento, o eso dicen...**
 
-*Soy una persona apasionada del mundo gaming, la informática, el cine y el deporte.*
+*Soy una persona apasionada del mundo gaming, la informática, el cine y el deporte.* **Y un poco firki también.**
 
 ### **Proyecto de futuro**: ***[TÉCNICO SUPERIOR EN DESARROLLO DE APLICACIONES WEB.](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html)***
 
