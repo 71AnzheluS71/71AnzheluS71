@@ -14,27 +14,27 @@ ___
 
 ## **MÓDULOS DE ESTUDIO** 📚
 
-> 1º CURSO 📕
+> ***1º CURSO*** 📕
 >
->> - Sistemas Informáticos.
->> - Programación.
->> - Base de Datos.
->> - Lenguajes de Marcas y Sistemas de Gestión de Información.
->> - Entornos de Desarrollo.
->> - Itinerario Personal para la Empleabilidad I.
->> - Inglés Profesional.
->> - Digitalización Aplicada a los Sectores Productivos.
+>> 1. Sistemas Informáticos.
+>> 2. Programación.
+>> 3. Base de Datos.
+>> 4. Lenguajes de Marcas y Sistemas de Gestión de Información.
+>> 5. Entornos de Desarrollo.
+>> 6. Itinerario Personal para la Empleabilidad I.
+>> 7. Inglés Profesional.
+>> 8. Digitalización Aplicada a los Sectores Productivos.
 >
-> 2º CURSO 📙
+> ***2º CURSO*** 📙
 >
->> - Desarrollo Web en Entorno Cliente.
->> - Desarrollo Web en Entorno Servidor.
->> - Despliegue de Aplicaciones Web.
->> - Diseño de Interfaces Web.
->> - Sostenibilidad Aplicada al Sistema Productivo.
->> - Itinerario Personal para la Empleabilidad II
->> - Proyecto Intermodular de Desarrollo de Aplicaciones Web.
->> - Formación en centros de trabajo.
+>> 1. Desarrollo Web en Entorno Cliente.
+>> 2. Desarrollo Web en Entorno Servidor.
+>> 3. Despliegue de Aplicaciones Web.
+>> 4. Diseño de Interfaces Web.
+>> 5. Sostenibilidad Aplicada al Sistema Productivo.
+>> 6. Itinerario Personal para la Empleabilidad II
+>> 7. Proyecto Intermodular de Desarrollo de Aplicaciones Web.
+>> 8. Formación en centros de trabajo.
 
 ___
 
@@ -61,13 +61,17 @@ ___
 | ![image](https://github.com/user-attachments/assets/fb76b523-e186-400f-b08d-a7b316a08d1f) | ![image](https://github.com/user-attachments/assets/5c7510c7-38b5-47b3-b6f9-87c5fd3d3331) | ![image](https://github.com/user-attachments/assets/211ba6a2-6b67-47fc-8a24-5a71ee423dac)|
 | ![image](https://github.com/user-attachments/assets/22ae650e-8b26-49c6-8606-431c487a8176) | ![image](https://github.com/user-attachments/assets/1531df68-6c4b-4597-b174-e6679d74d58c) | ![image](https://github.com/user-attachments/assets/12eff86e-84f2-4efb-a62a-d474eee322ff) |
 
-
 ___
 
 - ## 🛎️ CONTACTO:
 [![1500x500 (4)](https://github.com/user-attachments/assets/42c98c6d-3e1f-48c3-809b-cfee8cce14e8)](https://www.instagram.com/theanzhelus/)
 [![1500x500 (5)](https://github.com/user-attachments/assets/8a58aec4-1a4d-41fe-93d2-a34e870ef52f)](https://x.com/TheAnzheluS)
 
+___
+
+- [X] TAREA 01 REALIZADA - PERFIL GITHUB / MARKDOWN
+- [X] A LA ESPERA DE LA SIGUIENTE TAREA
+- [ ] PUBLICADA LA TAREA 02 DE LM Y SG
 ___
 
 ![1500x500 (1)](https://github.com/user-attachments/assets/35e6b7b6-12f6-4a91-8796-23e42b868b55) 🇪🇸
