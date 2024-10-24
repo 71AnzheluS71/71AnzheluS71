@@ -54,7 +54,12 @@ ___
 
 ___
 
+### **Tencnologías Encomendadas** 🤖
 
+| UTILIZADAS   | APRENDIÉNDOLAS | CONOCIDAS |
+| :----------- | :------------: | --------: |
+| ![image](https://github.com/user-attachments/assets/fb76b523-e186-400f-b08d-a7b316a08d1f) | ![image](https://github.com/user-attachments/assets/5c7510c7-38b5-47b3-b6f9-87c5fd3d3331) | ![image](https://github.com/user-attachments/assets/211ba6a2-6b67-47fc-8a24-5a71ee423dac)|
+| ![image](https://github.com/user-attachments/assets/22ae650e-8b26-49c6-8606-431c487a8176) | ![image](https://github.com/user-attachments/assets/1531df68-6c4b-4597-b174-e6679d74d58c) | ![image](https://github.com/user-attachments/assets/12eff86e-84f2-4efb-a62a-d474eee322ff) |
 
 
 
