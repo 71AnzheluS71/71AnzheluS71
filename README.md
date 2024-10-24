@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @71AnzheluS71
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+🙋🏻‍♂️ ## ME PRESENTO
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+___
+
+### ***Me llamo Ángel, datación por radiocarbono consta de 1993.***
+### **Murciano sin acento, o eso dicen...**
+
+
+
+
 
 - # 📫 CONTACTO:
 [![1500x500 (4)](https://github.com/user-attachments/assets/42c98c6d-3e1f-48c3-809b-cfee8cce14e8)](https://www.instagram.com/theanzhelus/)
